@@ -222,12 +222,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 988.5
     y: 0
-    width: 348
+    width: 467
     height: 1054
   m_MinSize: {x: 100, y: 150}
   m_MaxSize: {x: 8096, y: 24288}
   vertical: 1
-  controlID: 123
+  controlID: 71
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -246,8 +246,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 348
-    height: 319
+    width: 467
+    height: 318.5
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 18}
@@ -271,8 +271,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 319
-    width: 348
+    y: 318.5
+    width: 467
     height: 338.5
   m_MinSize: {x: 232, y: 276}
   m_MaxSize: {x: 10002, y: 10026}
@@ -299,9 +299,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 657.5
-    width: 348
-    height: 396.5
+    y: 657
+    width: 467
+    height: 397
   m_MinSize: {x: 52, y: 76}
   m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 22}
@@ -324,9 +324,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1336.5
+    x: 1455.5
     y: 0
-    width: 583.5
+    width: 464.5
     height: 1054
   m_MinSize: {x: 276, y: 76}
   m_MaxSize: {x: 4001, y: 4026}
@@ -2162,8 +2162,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 988.5
     y: 78
-    width: 346
-    height: 293
+    width: 465
+    height: 292.5
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -2178,9 +2178,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: cab90000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0afbffff
+      m_ExpandedIDs: 9a49ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -2227,8 +2227,8 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 988.5
-    y: 397
-    width: 346
+    y: 396.5
+    width: 465
     height: 312.5
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -2252,7 +2252,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/UIManager/UI
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -2262,16 +2262,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts/UIManager/UI
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Dev\MonoAyaFramework\MonoAya
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: cab90000
-    m_LastClickedID: 47562
-    m_ExpandedIDs: 000000004ab800004cb80000c8b9000000ca9a3b
+    m_SelectedIDs: a8f60000
+    m_LastClickedID: 63144
+    m_ExpandedIDs: 00000000a8f60000acf60000aef6000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2300,7 +2300,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004ab800004cb80000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2455,9 +2455,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 988.5
-    y: 735.5
-    width: 346
-    height: 370.5
+    y: 735
+    width: 465
+    height: 371
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -2490,9 +2490,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1336.5
+    x: 1455.5
     y: 78
-    width: 582.5
+    width: 463.5
     height: 1028
   m_SerializedDataModeController:
     m_DataMode: 0
